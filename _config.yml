@@ -23,7 +23,7 @@ baseurl: "/Nitish_Chandra"
 # The url is the main domain for your site
 url: "https://nitishkrchandra.github.io" 
 github_username: "nitishkrchandra" #
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 search: true
 
 # Build settings
