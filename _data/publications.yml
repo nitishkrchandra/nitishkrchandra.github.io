@@ -1,0 +1,53 @@
+- title: "Architectural Approaches to Fault-Tolerant Distributed Quantum Computing and Their Entanglement Overheads"
+  authors: "Chandra, Nitish Kumar, Eneet Kaur, and Kaushik P. Seshadreesan"
+  venue: "Submitted to IEEE Network Magazine, Quantum Communications and Networking: Series 4"
+
+- title: "Distributed Realization of Color Codes for Quantum Error Correction"
+  authors: "Chandra, Nitish Kumar, David Tipper, Reza Nejabati, Eneet Kaur, and Kaushik P. Seshadreesan"
+  venue: "Submitted to IEEE Quantum Week QCE25"
+  url: "https://arxiv.org/abs/2505.10693"
+
+- title: "Quantum repeaters enhanced by vacuum beam guides"
+  authors: "Gan, Yu, Mohadeseh Azari, Nitish Kumar Chandra, Xin Jin, Jinglei Cheng, Kaushik P. Seshadreesan, and Junyu Liu"
+  venue: "Submitted to IEEE Quantum Week QCE25"
+  url: "https://arxiv.org/abs/2504.13397"
+
+- title: "Multiplexed bi-layered realization of fault tolerant quantum computation over optically networked trapped-ion modules"
+  authors: "Chandra, Nitish Kumar, Saikat Guha, and Kaushik P. Seshadreesan"
+  venue: "arXiv:2411.08616"
+  url: "https://arxiv.org/abs/2411.08616"
+
+- title: "Network Operations Scheduling for Distributed Quantum Computing"
+  authors: "Chandra, Nitish Kumar, Eneet Kaur, and Kaushik P. Seshadreesan"
+  venue: "In 2024 IEEE 6th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA)"
+  url: "https://doi.org/10.1109/TPS-ISA62245.2024.00068"
+
+- title: "Optimal Entanglement Distillation Policies for Quantum Switches"
+  authors: "Kumar, Vivek, Nitish Kumar Chandra, Kaushik P. Seshadreesan, Alan Scheller-Wolf, and Sridhar Tayur"
+  venue: "In Proceedings of the 2023 IEEE International Conference on Quantum Computing and Engineering"
+  url: "https://doi.org/10.1109/QCE57702.2023.00135"
+
+- title: "Complementarity, in Paraxial and Non-Paraxial Optical Beams"
+  authors: "Roy, Abhinash Kumar, Nitish Kumar Chandra, Soumik Mahanti, and Prasanta K. Panigrahi"
+  venue: "In Proceedings of the 2024 16th International Conference on Communication Systems & Networks, COMSNETS, 2024"
+  url: "https://doi.org/10.1109/COMSNETS59351.2024.10427287"
+
+- title: "Preservation and enhancement of quantum correlations under Stark effect"
+  authors: "Chandra, Nitish Kumar, Rajiuddin Sk, and Prasanta K. Panigrahi"
+  venue: "Journal of Modern Optics 70.4 (2023): 232-242"
+  url: "https://doi.org/10.1080/09500340.2023.2219779"
+
+- title: "Coherence, path predictability, and I concurrence: A triality"
+  authors: "Roy, Abhinash Kumar, Neha Pathania, Nitish Kumar Chandra, Prasanta K. Panigrahi, and Tabish Qureshi"
+  venue: "Physical Review A 105, no. 3 (2022): 032209"
+  url: "https://doi.org/10.1103/PhysRevA.105.032209"
+
+- title: "Dissipative dynamics of quantum correlation quantifiers under decoherence channels"
+  authors: "Chandra, Nitish Kumar, Sarang S. Bhosale, and Prasanta K. Panigrahi"
+  venue: "The European Physical Journal Plus 137.4 (2022): 1-20"
+  url: "https://doi.org/10.1140/epjp/s13360-022-02640-4"
+
+- title: "Geometric quantification of multiparty entanglement through orthogonality of vectors"
+  authors: "Roy, Abhinash Kumar, Nitish Kumar Chandra, S. Nibedita Swain, and Prasanta K. Panigrahi"
+  venue: "The European Physical Journal Plus 136, no. 11 (2021): 1-14"
+  url: "https://doi.org/10.1140/epjp/s13360-021-02127-y"
