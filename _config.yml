@@ -78,6 +78,18 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/nitishkrchandra"
 
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  # Add this new collection for your research projects
+  research:
+    output: true
+    permalink: /:collection/:path/
+
 # --- Defaults ---
 # Set default values for pages and posts
 defaults:
