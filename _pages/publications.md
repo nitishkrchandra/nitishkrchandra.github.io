@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<ol reversed>
+<ol>
 {% for pub in site.data.publications %}
   <li>
     <p><strong>{{ pub.title }}</strong><br>
