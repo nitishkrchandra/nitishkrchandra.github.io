@@ -16,7 +16,7 @@
 title: "Nitish Kumar Chandra"
 email: "nkc16@pitt.edu"
 description: >- # this means to ignore newlines until "baseurl:"
-  A PhD researcher focusing on Distributed Quantum Computing, Quantum Networks, and Quantum Error Correction.
+  A PhD Student focusing on Distributed Quantum Computing, Quantum Networks, and Quantum Error Correction.
 # The baseurl is the subpath of your site, e.g. /blog
 # Because your repository is named "Nitish_Chandra", this MUST be set.
 baseurl: "/Nitish_Chandra" 
