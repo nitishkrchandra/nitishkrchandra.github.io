@@ -18,18 +18,22 @@ Here are some of the key projects I am involved in:
 
 <ul style="text-align: justify;">
 
-<li><b>At the University of Pittsburgh</b>, I am investigating <b>fault tolerant quantum computing architectures</b>, analyzing the <b>security of networks protected by post quantum cryptography</b>, and designing and simulating <b>optimal policies for entanglement distribution</b> in quantum networks. I am also working on <b>quantum combinatorial optimization</b> to address tasks such as <b>optimizing financial portfolios</b>, <b>scheduling complex manufacturing workflows</b>, and <b>detecting community structures in large scale networks</b>.</li>  
+<li><b>At the University of Pittsburgh</b>, I am investigating fault tolerant quantum computing architectures, analyzing the security of networks protected by post quantum cryptography, and designing and simulating optimal policies for entanglement distribution in quantum networks. I am also working on quantum combinatorial optimization to address tasks such as optimizing financial portfolios, scheduling complex manufacturing workflows, and detecting community structures in large scale networks.</li>  
 
-<li><b>Through my collaboration with Cisco Research</b>, I am developing <b>efficient scheduling methods</b> for <b>network operations in distributed quantum circuits</b> and analyzing <b>quantum error correcting codes</b> for these distributed systems. This includes reducing <b>latency</b> and <b>resource overhead</b> during nonlocal gate execution, evaluating <b>code thresholds</b> under realistic noise and connectivity constraints, and studying <b>compiler and decoder choices</b> that improve reliability in modular architectures.</li>  
+<li><b>Through my collaboration with Cisco Research</b>, I am developing efficient scheduling methods for network operations in distributed quantum circuits and analyzing quantum error correcting codes for these distributed systems. This includes reducing latency and resource overhead during nonlocal gate execution, evaluating code thresholds under realistic noise and connectivity constraints, and studying compiler and decoder choices that improve reliability in modular architectures.</li>  
 
-<li><b>At IISER Kolkata</b>, I <b>simulated quantum correlations in noisy quantum systems</b>, developed <b>strategies to mitigate decoherence and enhance fidelity</b>, and applied <b>geometric algebra</b> to characterize <b>multipartite entanglement</b> in <b>quantum algorithms and interferometry</b>.</li>  
+<li><b>At IISER Kolkata</b>, I simulated quantum correlations in noisy quantum systems, developed strategies to mitigate decoherence and enhance fidelity, and applied geometric algebra to characterize multipartite entanglement in quantum algorithms and interferometry.</li>  
 
 </ul>
 
 ## Education  
 
-* <b>Ph.D. in Information Science</b> – University of Pittsburgh, 2022–Present  
-* <b>BS-MS in Physical Sciences</b> – IISER Kolkata, 2016–2021  
+<ul style="text-align: justify;">
+
+<li><b>Ph.D. in Information Science</b> – University of Pittsburgh, 2022–Present</li>  
+<li><b>BS-MS in Physical Sciences</b> – IISER Kolkata, 2016–2021</li>  
+
+</ul>
 
 <div style="text-align: justify;">
 I am always excited to discuss research and potential collaborations. Please feel free to explore my publications or get in touch.  
