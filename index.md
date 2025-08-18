@@ -6,7 +6,9 @@ title: "Nitish Kumar Chandra"
 
 <div style="text-align: justify;">
 
-Welcome! I am a Ph.D. student in Information Science at the University of Pittsburgh, fortunate to be advised by Dr. Kaushik P. Seshadreeshan. My work primarily focuses on **distributed quantum computing**, **quantum networking**, **quantum error correction** and **quantum combinatorial optimization**.
+Welcome! I am a Ph.D. student in Information Science at the University of Pittsburgh, fortunate to be advised by Dr. Kaushik P. Seshadreesan. My research is dedicated to addressing the challenges in realizing large scale fault tolerant quantum computers and networks.
+
+My work primarily focuses on **distributed quantum computing**, **quantum networking**, **quantum error correction**, and **quantum combinatorial optimization**.
 
 </div>
 
@@ -14,15 +16,11 @@ Welcome! I am a Ph.D. student in Information Science at the University of Pittsb
 
 Here are some of the key projects I am involved in:  
 
-<div style="text-align: justify;">
+* <div style="text-align: justify;">**At the University of Pittsburgh**, I am investigating **fault tolerant quantum computing architectures**, analyzing the **security of networks protected by post quantum cryptography**, and designing and simulating **optimal policies for entanglement distribution** in quantum networks. I am also working on **quantum combinatorial optimization** to address tasks such as **optimizing financial portfolios**, **scheduling complex manufacturing workflows**, and **detecting community structures in large scale networks**.</div>  
 
-* **At the University of Pittsburgh**, I am investigating fault tolerant quantum computing architectures, analyzing the security of networks protected by post quantum cryptography, and designing and simulating optimal policies for entanglement distribution in quantum networks. I am also working on quantum combinatorial optimization to address tasks such as optimizing financial portfolios, scheduling complex manufacturing workflows, and detecting community structures in large scale networks.  
+* <div style="text-align: justify;">**Through my collaboration with Cisco Research**, I am developing **efficient scheduling methods** for **network operations in distributed quantum circuits** and analyzing **quantum error correcting codes** for these distributed systems. This includes reducing **latency** and **resource overhead** during nonlocal gate execution, evaluating **code thresholds** under realistic noise and connectivity constraints, and studying **compiler and decoder choices** that improve reliability in modular architectures.</div>  
 
-* **Through my collaboration with Cisco Research**, I am developing efficient scheduling methods for network operations in distributed quantum circuits and analyzing quantum error correcting codes for these distributed systems. This includes reducing latency and resource overhead during nonlocal gate execution, evaluating code thresholds under realistic noise and connectivity constraints, and studying compiler and decoder choices that improve reliability in modular architectures.  
-
-* **At IISER Kolkata**, I simulated quantum correlations in noisy quantum systems, developed strategies to mitigate decoherence and enhance fidelity, and applied geometric algebra to characterize multipartite entanglement in quantum algorithms and interferometry.  
-
-</div>
+* <div style="text-align: justify;">**At IISER Kolkata**, I **simulated quantum correlations in noisy quantum systems**, developed **strategies to mitigate decoherence and enhance fidelity**, and applied **geometric algebra** to characterize **multipartite entanglement** in **quantum algorithms and interferometry**.</div>  
 
 ## Education  
 
