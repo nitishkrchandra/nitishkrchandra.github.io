@@ -6,7 +6,7 @@ title: "Nitish Kumar Chandra"
 
 <div style="text-align: justify;">
 
-Welcome! I am a Ph.D. student in Information Science at the University of Pittsburgh, fortunate to be advised by Dr. Kaushik P. Seshadreesan. My research is dedicated to addressing the challenges in realizing large scale fault tolerant quantum computers and networks.
+Welcome! I am a Ph.D. student at the University of Pittsburgh, advised by Dr. Kaushik P. Seshadreesan. 
 
 My work primarily focuses on <b>distributed quantum computing</b>, <b>quantum networking</b>, <b>quantum error correction</b>, and <b>quantum combinatorial optimization</b>.
 
