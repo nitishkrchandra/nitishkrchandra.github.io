@@ -7,6 +7,6 @@ author_profile: true
 
 A selection of my key research projects and contributions.
 
-{% for post in site.research reversed %}
+{% for post in site.research %}
   {% include archive-single.html %}
 {% endfor %}
