@@ -4,37 +4,18 @@ author_profile: true
 title: "Nitish Kumar Chandra"
 ---
 
-<div style="text-align: justify;">
+Welcome! I am a Ph.D. student in Information Science at the University of Pittsburgh, advised by Dr. Kaushik P. Seshadreeshan. My research is dedicated to addressing the foundational challenges in building large-scale, fault-tolerant quantum computers and networks.
 
-Welcome! I am a Ph.D. student in Information Science at the University of Pittsburgh, fortunate to be advised by Dr. Kaushik P. Seshadreesan. 
+My work primarily focuses on developing practical solutions for **distributed quantum computing**, **quantum networking**, and **quantum error correction**.
 
-My work primarily focuses on fault tolerant quantum computing, distributed quantum computing, quantum networking, quantum error correction, and quantum combinatorial optimization.
+## Research Highlights
+Here are some of the key projects I am involved in:
+* **At the University of Pittsburgh**, I am investigating fault-tolerant quantum computing architectures, analyzing the security of networks protected by post-quantum cryptography, and designing optimal policies for managing entanglement in quantum networks.
+* **Through my collaboration with Cisco Quantum Lab**, I am developing efficient scheduling methods for network operations in distributed quantum circuits and analyzing quantum error-correcting codes for these distributed systems.
+* **During my internship at IISER Kolkata**, I simulated quantum correlations in open systems to develop strategies for mitigating decoherence and enhancing fidelity.
 
-</div>
+## Education
+* **Ph.D. in Information Science** - University of Pittsburgh, 2022-Present
+* **BS-MS in Physical Sciences** - IISER Kolkata, 2016-2021
 
-## Research Highlights  
-
-Here are some of the key projects I am involved in:  
-
-<ul style="text-align: justify;">
-
-<li><b>At the University of Pittsburgh</b>, I am investigating fault tolerant quantum computing architectures, analyzing the security of networks protected by post quantum cryptography, and designing and simulating optimal policies for entanglement distribution in quantum networks. I am also working on quantum combinatorial optimization to address tasks such as optimizing financial portfolios, scheduling complex manufacturing workflows, and detecting community structures in large scale networks.</li>  
-
-<li><b>Through my collaboration with Cisco Research</b>, I am developing efficient scheduling methods for network operations in distributed quantum circuits and analyzing quantum error correcting codes for these distributed systems. This includes reducing latency and resource overhead during nonlocal gate execution, evaluating code thresholds under realistic noise and connectivity constraints, and studying compiler and decoder choices that improve reliability in modular architectures.</li>  
-
-<li><b>At IISER Kolkata</b>, I simulated quantum correlations in noisy quantum systems, developed strategies to mitigate decoherence and enhance fidelity, and applied geometric algebra to characterize multipartite entanglement in quantum algorithms and interferometry.</li>  
-
-</ul>
-
-## Education  
-
-<ul style="text-align: justify;">
-
-<li><b>Ph.D. in Information Science</b> – University of Pittsburgh, 2022–Present</li>  
-<li><b>BS-MS in Physical Sciences</b> – IISER Kolkata, 2016–2021</li>  
-
-</ul>
-
-<div style="text-align: justify;">
-I am always excited to discuss research and potential collaborations. Please feel free to explore my publications or get in touch.  
-</div>
+I am always excited to discuss research and potential collaborations. Please feel free to explore my publications or get in touch.
