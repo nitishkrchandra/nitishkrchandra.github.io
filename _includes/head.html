@@ -41,3 +41,7 @@
     font-size: 15px !important; /* Adjust 15px to your desired size */
   }
 </style>
+
+{% if page.math or layout.math %}
+  {% include math.html %}
+{% endif %}
