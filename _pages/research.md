@@ -8,5 +8,5 @@ author_profile: true
 A selection of my key research projects and contributions.
 
 {% for post in site.research %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
