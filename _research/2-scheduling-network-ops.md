@@ -3,8 +3,8 @@ title: "Scheduling Network Operations in Distributed Quantum Architectures"
 collection: research
 date: 2024-05-01
 header:
-  teaser: /assets/images/schedule.jpg
-excerpt: "This work, in collaboration with Cisco, compares resource-constrained project scheduling (RCPSP) and greedy heuristic methods for minimizing execution time in distributed quantum circuits."
+  teaser: /assets/images/schedule.png
+excerpt: "This work, in collaboration with Cisco Research, compares resource-constrained project scheduling (RCPSP) and greedy heuristic methods for minimizing execution time in distributed quantum circuits."
 links:
   - label: "[Paper]"
     url: "https://doi.org/10.1109/TPS-ISA62245.2024.00068"
