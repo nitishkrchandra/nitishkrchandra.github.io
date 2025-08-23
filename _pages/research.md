@@ -7,7 +7,8 @@ author_profile: true
 
 A selection of my key research projects and contributions.
 
-{% for project in site.research %}
+{% assign projects = site.research | sort: 'date' %}
+{% for project in projects %}
 <table style="width:100%; border: none;">
   <tr style="border: none;">
     <td style="width: 25%; padding: 10px; border: none; vertical-align: top;">
