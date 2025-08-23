@@ -19,11 +19,14 @@
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative.url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% include post__taxonomy.html %}
+
     {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
     {% endif %}
@@ -31,7 +34,7 @@
     {% if post.links %}
       <p>
       {% for link in post.links %}
-        <a href="{{ link.url }}" class="btn btn--inverse">{{ link.label | remove: "[" | remove: "]" }}</a>
+        <a href="{{ link.url }}" style="margin-right: 15px;">{{ link.label }}</a>
       {% endfor %}
       </p>
     {% endif %}
