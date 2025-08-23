@@ -4,14 +4,14 @@ author_profile: true
 title: "Nitish Kumar Chandra"
 ---
 
-Welcome! I am a Ph.D. student in Information Science at the University of Pittsburgh, fortunate to be advised by Dr. Kaushik P. Seshadreeshan. 
+Welcome! I am a Ph.D. student in the School of Computing and Information at the University of Pittsburgh, advised by Dr. Kaushik P. Seshadreesan.
 
-My work primarily focuses on **fault tolerant quantum computing**, **distributed quantum computing**, **quantum networking**, **quantum error correction**, and **quantum combinatorial optimization**.
+My work primarily focuses on **fault tolerant quantum computing**, **distributed quantum computing**, **quantum networking**, and **quantum combinatorial optimization**.
 
 ## Research Highlights
 Here are some of the key projects I am involved in:
 
-* **At the University of Pittsburgh**, I am investigating fault tolerant quantum computing architectures, analyzing the security of networks protected by post-quantum cryptography, and designing and simulating optimal policies for entanglement distribution in quantum networks. I am also working on quantum combinatorial optimization to address tasks such as optimizing financial portfolios, scheduling complex manufacturing workflows, and detecting community structures in large-scale networks.
+* **At the University of Pittsburgh**, I am investigating fault-tolerant quantum computing architectures, analyzing the security of networks protected by post-quantum cryptography, and designing and simulating optimal policies for entanglement distribution in quantum networks. I am also working on quantum combinatorial optimization to address tasks such as optimizing financial portfolios, scheduling complex manufacturing workflows, and detecting community structures in large-scale networks.
 
 * **Through my collaboration with Cisco Research**, I am developing efficient scheduling methods for network operations in distributed quantum circuits and analyzing quantum error-correcting codes for these distributed systems. This includes reducing latency and resource overhead during nonlocal gate execution, evaluating code thresholds under realistic noise and connectivity constraints, and studying compiler and decoder choices that improve reliability in modular architectures.
 
