@@ -19,6 +19,15 @@ A selection of my key research projects and contributions.
       <h3>{{ project.title }}</h3>
       <p>{{ project.excerpt }}</p>
       <p><a href="{{ project.url | relative_url }}">Read more...</a></p>
+
+      {% if project.links %}
+        <p>
+        {% for link in project.links %}
+          <a href="{{ link.url }}" style="margin-right: 15px;">{{ link.label }}</a>
+        {% endfor %}
+        </p>
+      {% endif %}
+
     </td>
   </tr>
 </table>
