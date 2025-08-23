@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -7,6 +7,9 @@ author_profile: true
 
 A selection of my key research projects and contributions.
 
-{% for post in site.research %}
-  {% include archive-single.html type="grid" %}
+{% for project in site.research %}
+### {{ project.title }}
+{{ project.excerpt }}
+<p><a href="{{ project.url | relative_url }}">Read more...</a></p>
+<hr>
 {% endfor %}
