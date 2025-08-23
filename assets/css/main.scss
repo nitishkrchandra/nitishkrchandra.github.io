@@ -3,11 +3,12 @@
 ---
 
 // This line MUST come first to import the theme's colors
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 
 /* --- FONT SIZE OVERRIDE --- */
-// Your custom font size setting goes here
-$type-size-3: 6px !default;
+// Use $type-size-6 to change the main body/paragraph text.
+// 16px is a standard readable size.
+$type-size-6: 16px !default;
 
 // This line MUST come last to import the rest of the theme's styles
 @import "minimal-mistakes";
