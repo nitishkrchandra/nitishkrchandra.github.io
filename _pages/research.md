@@ -5,22 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+  .research-item-teaser img {
+    max-width: 250px !important;
+    width: 100%;
+  }
+</style>
+
 A selection of my key research projects and contributions.
 
 {% assign projects = site.research | sort: 'date' %}
+
 {% for project in projects %}
 <table style="width:100%; border: none;">
   <tr style="border: none;">
-    <td style="width: 25%; padding: 10px; border: none; vertical-align: top;">
+    <td class="research-item-teaser" style="width: 25%; padding: 10px; border: none; vertical-align: top;">
       {% if project.header.teaser %}
         <img src="{{ project.header.teaser | relative_url }}" alt="Project teaser">
       {% endif %}
     </td>
     <td style="width: 75%; padding: 10px; border: none; vertical-align: top;">
-      <h3>{{ project.title }}</h3>
-      <p>{{ project.excerpt }}</p>
-      <p><a href="{{ project.url | relative_url }}">Read more...</a></p>
-
+      <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+      <p>{{ project.excerpt }}</p>      
       {% if project.links %}
         <p>
         {% for link in project.links %}
@@ -28,7 +34,6 @@ A selection of my key research projects and contributions.
         {% endfor %}
         </p>
       {% endif %}
-
     </td>
   </tr>
 </table>
