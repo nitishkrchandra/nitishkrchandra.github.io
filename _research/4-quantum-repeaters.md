@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Quantum Repeaters with Vacuum Beam Guides"
 collection: research
-order: 4
+order: 3
 date: 2022-09-03
 header:
   teaser: /assets/images/teaser-repeaters.jpg # Add a project image here
@@ -10,7 +10,7 @@ links:
   - label: "[Paper]"
     url: "https://arxiv.org/abs/2504.13397"
   - label: "[Code]"
-    url: "#" # Add GitHub link here when available
+    url: "https://github.com/nitishkrchandra/Quantum-Repeaters"
 tags:
   - Quantum Repeaters
   - Quantum Networks
