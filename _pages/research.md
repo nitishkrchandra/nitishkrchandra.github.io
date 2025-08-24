@@ -5,17 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-<style>
-  .research-item-teaser img {
-    max-width: 250px !important;
-    width: 100%;
-  }
-</style>
-
 A selection of my key research projects and contributions.
 
-{% assign projects = site.research | sort: 'date' %}
-
+{% assign projects = site.research | sort: 'order' %}
 {% for project in projects %}
 <table style="width:100%; border: none;">
   <tr style="border: none;">
