@@ -2,6 +2,7 @@
 title: "Fault-Tolerant Measurement Based Quantum Computing"
 collection: research
 date: 2022-09-01
+order: 1
 header:
   teaser: /assets/images/ftqc.gif
 excerpt: "This project investigates a fault-tolerant quantum computing architecture using dual-species trapped-ion (DSTI) modules to generate topologically protected RHG cluster states."
