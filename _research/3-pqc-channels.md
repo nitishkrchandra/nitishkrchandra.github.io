@@ -2,6 +2,7 @@
 title: "Post-Quantum Cryptography in Quantum Networks"
 collection: research
 date: 2025-08-01
+order: 3
 header:
   teaser: /assets/images/pqc.gif
 excerpt: "This work analyzes a security model where noisy Bell states and PQC-protected classical channels constrain the information accessible to an adversary."
