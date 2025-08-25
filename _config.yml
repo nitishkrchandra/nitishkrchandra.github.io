@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A PhD Student working on Distributed Quantum Computing, Quantum Networks, and Quantum Error Correction.
 # The baseurl is the subpath of your site, e.g. /blog
 # Because your repository is named "Nitish_Chandra", this MUST be set.
-baseurl: "" 
+baseurl: "/Nitish_Chandra" 
 # The url is the main domain for your site
 url: "https://nitishkrchandra.github.io" 
 github_username: "nitishkrchandra" #
